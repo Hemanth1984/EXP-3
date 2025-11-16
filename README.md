@@ -1,9 +1,9 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO: 3		
+STAIR CASE WIRING                     
 
- 
 AIM
- To control the status of the given lamp by using two–way switches. 
+To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
 S. No.
@@ -40,11 +40,19 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+a)SPDT(XNOR):
 
-Tabulation:2
+<img width="909" height="537" alt="513862288-72fbbdd1-5a0b-40d9-9a77-45bea0a4346a" src="https://github.com/user-attachments/assets/b39125c5-3a4d-4d94-9210-d1d180fbcba8" />
+
+Cross connection: CIRCUIT DIAGRAM:b)SPDT(XOR):
+
+<img width="988" height="497" alt="513862445-c6cf8bb4-6d64-4225-b73d-22fcc0be78bc" src="https://github.com/user-attachments/assets/131aef63-34e0-446a-8d5e-5381f96a51e4" />
+
+![6](https://github.com/user-attachments/assets/4029377a-7a0a-4deb-9483-7499242b5167)
+
+![7](https://github.com/user-attachments/assets/0451ab82-87a5-4fa2-ac6f-136a2d209800)
+
+![8](https://github.com/user-attachments/assets/a42b6d17-76b0-478e-8f85-9ebd61c28bd5)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
